@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Mitocode\\Fullstack\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {}
+    "F:\\Mitocode\\FullStack\\DatinApp\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "E:\\Mitocode\\Fullstack\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {
+    "F:\\Mitocode\\FullStack\\DatinApp\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Mitocode\\Fullstack\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "F:\\Mitocode\\FullStack\\DatinApp\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "E:\\Mitocode\\Fullstack\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "F:\\Mitocode\\FullStack\\DatinApp\\DatingApp.API\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "E:\\Mitocode\\Fullstack\\DatingApp\\DatingApp.API\\obj\\",
+        "outputPath": "F:\\Mitocode\\FullStack\\DatinApp\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

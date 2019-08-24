@@ -12,3 +12,17 @@ E:\Mitocode\Fullstack\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.
 E:\Mitocode\Fullstack\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
 E:\Mitocode\Fullstack\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
 E:\Mitocode\Fullstack\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
+F:\Mitocode\FullStack\DatinApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.deps.json
+F:\Mitocode\FullStack\DatinApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.json
+F:\Mitocode\FullStack\DatinApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.dev.json
+F:\Mitocode\FullStack\DatinApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.dll
+F:\Mitocode\FullStack\DatinApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.pdb
+F:\Mitocode\FullStack\DatinApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csprojAssemblyReference.cache
+F:\Mitocode\FullStack\DatinApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csproj.CoreCompileInputs.cache
+F:\Mitocode\FullStack\DatinApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cache
+F:\Mitocode\FullStack\DatinApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cs
+F:\Mitocode\FullStack\DatinApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfoInputs.cache
+F:\Mitocode\FullStack\DatinApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfo.cs
+F:\Mitocode\FullStack\DatinApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
+F:\Mitocode\FullStack\DatinApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
+F:\Mitocode\FullStack\DatinApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
